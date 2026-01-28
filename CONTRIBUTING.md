@@ -1,8 +1,8 @@
 # Contributing to Titan Terminal Pro
 
-Thanks for your interest in contributing! 🎉
+Thanks for your interest in contributing! 
 
-## 🐛 Reporting Bugs
+##  Reporting Bugs
 
 1. Check if the issue already exists in [Issues](../../issues)
 2. Create a new issue with:
@@ -11,14 +11,14 @@ Thanks for your interest in contributing! 🎉
    - Expected vs actual behavior
    - Your Python/Ollama version
 
-## 💡 Feature Requests
+## Feature Requests
 
 Open an issue with:
 - Description of the feature
 - Why it would be useful
 - Any implementation ideas (optional)
 
-## 🔧 Pull Requests
+##  Pull Requests
 
 1. **Fork** the repository
 2. **Create a branch**: `git checkout -b feature/your-feature-name`
@@ -27,14 +27,14 @@ Open an issue with:
 5. **Push**: `git push origin feature/your-feature-name`
 6. **Open a PR** with a clear description
 
-## 📝 Code Style
+##  Code Style
 
 - Follow PEP 8 for Python
 - Use descriptive variable names
 - Add docstrings to functions
 - Keep modules focused (one responsibility per file)
 
-## 🧪 Testing
+##  Testing
 
 Before submitting:
 - [ ] Run `python3 titan_terminal.py` and test affected features
@@ -50,10 +50,10 @@ Before submitting:
 | Formatting/display | `utils/formatters.py`, `utils/charts.py` |
 | AI prompts | `modules/ai_engine.py`, `modules/ownership.py` |
 
-## 🤝 Code of Conduct
+## Code of Conduct
 
 Be respectful and constructive. We're all here to learn and build cool stuff!
 
 ---
 
-Questions? Open an issue or start a discussion. Happy coding! 🚀
+Questions? Open an issue or start a discussion. Happy coding! 
